@@ -1,0 +1,14 @@
+$ python3.10 hw1.py /usr/share/dict/words cold warm
+cold
+cord
+word
+ward
+warm
+
+$ python3.10 hw1.py /usr/share/dict/words small short
+small
+shall
+shale
+share
+shore
+short
